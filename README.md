@@ -83,6 +83,12 @@
 
   ![img.png](img/img.png)
 
+### [Medium article](https://medium.com/cosmostation/telegram-based-rpc-sync-monitoring-for-monad-nodes-a4e8f915d588)
+
+Telegram-Based RPC Sync Monitoring for Monad Nodes
+
+-------
+
 ### Disclaimer
 
 > THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF  
